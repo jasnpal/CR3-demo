@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x95DdA47d79CDff20d6B0F0B10613503cf57C15c5",
+  "SCAN_LINK": "https://etherscan.io/address/0x95dda47d79cdff20d6b0f0b10613503cf57c15c5",
+  "NETWORK": {
+    "NAME": "NFT Shorts",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "NFT Shorts",
+  "SYMBOL": "NFTSHORTS",
+  "MAX_SUPPLY": 4,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/med-v3",
+  "SHOW_BACKGROUND": true
+}
